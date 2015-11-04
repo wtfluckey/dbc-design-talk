@@ -2,6 +2,7 @@
 Talk given at DBC on Nov 4
 
 ## [View Slides Here](https://speakerdeck.com/wtfluckey/design-101-tips-and-tricks)
+### [View Slides with Notes without pretty styles](https://github.com/wtfluckey/dbc-design-talk/blob/master/dbc-design101.md)
 
 ## Resources:
 - [Balsamiq, wireframing tool](https://balsamiq.com/)
