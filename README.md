@@ -26,3 +26,4 @@ Talk given at DBC on Nov 4
 ### Play & Practice
 - [Design School for Developers](http://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
 - [Codrops - tutorials and playground](http://tympanus.net/codrops/)
+- [Chris Gannon - SVG tutorials](http://gannon.tv/)
