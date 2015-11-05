@@ -20,10 +20,12 @@ Talk given at DBC on Nov 4
 - [Typecast](http://typecast.com/)
 - [Font Awesome icon font](http://fortawesome.github.io/Font-Awesome/)
 
-### Responsive 
+### Responsive
+- [A guide to Responsive Web Design](http://alistapart.com/article/responsive-web-design)
 - [Responsive design cheat sheet](https://uxpin.s3.amazonaws.com/responsive_web_design_cheatsheet.pdf)
 
 ### Play & Practice
 - [Design School for Developers](http://webdesign.tutsplus.com/series/design-school-for-developers--webdesign-13793)
 - [Codrops - tutorials and playground](http://tympanus.net/codrops/)
 - [Chris Gannon - SVG tutorials](http://gannon.tv/)
+- [A Book Apart series - brief books for people who make websites](http://abookapart.com/)
